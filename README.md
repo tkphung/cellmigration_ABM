@@ -1,6 +1,8 @@
 # cellmigration_ABM
 This agent-based model (built in [NetLogo](https://ccl.northwestern.edu/netlogo/)) simulates cell migration into an empty wound space. The HTML version was generated using *NetLogo Web*. This model was created for a lecture in an undergraduate "cell migration" biology course.
 
+Run the simulation in your browser here: [tkphung.github.io/cellmigrationABM](http://tkphung.github.io/cellmigrationABM.html)
+
 ### SETUP SIMULATION
 Click **setup** (at the bottom of the interface) to initialize cells in the wound environment. The *SETUP SIMULATION* section includes adjustable initial conditions:
 
